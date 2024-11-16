@@ -1,6 +1,10 @@
 # About-Me
+<h1 align="center">Hi 👋, I'm Amit Choudhary</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-💻 Full Stack Developer (MERN) | 🎨 Graphic Designer | 📈 Digital Marketing Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalamitchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="digitalamitchoudhary" /> </p>
+
+<b>💻 Full Stack Developer (MERN) | 🎨 Graphic Designer | 📈 Digital Marketing Enthusiast<b>
 
 Hi! I’m a passionate Full Stack MERN Developer skilled in building dynamic, user-friendly web applications. Beyond coding, I have a knack for creating visually stunning designs using Adobe Photoshop and Illustrator. With a background in digital marketing, I bring a unique perspective to projects by combining technical, creative, and strategic skills to deliver impactful solutions.
 
