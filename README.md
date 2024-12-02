@@ -42,4 +42,4 @@ I’m open to collaborating on web development, design projects, or tech-driven 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalamitchoudhary&show_icons=true&locale=en" alt="digitalamitchoudhary" /></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=digitalamitchoudhary&border_radius=4.2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=digitalamitchoudhary" alt="GitHub Streak" /></a>
