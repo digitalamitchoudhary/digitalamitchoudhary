@@ -15,6 +15,7 @@ Backend: Node.js, Express.js etc.
 Database: MongoDB
 Design: Adobe Photoshop, Illustrator, Canva
 Marketing: SEO, Analytics, Campaign Management
+
 🌟 What I’m Working On:
 
 Building scalable web apps using the MERN stack
